@@ -4,13 +4,11 @@
 A Python Script program for getting the print order of pages for printing a booklet in a single-side printer. You have to print the odd order first and then print the even order and both have to be printed in 2 pages per sheet.
 
 ## Installation
-
-Your system needs to be already installed version 3 and above  [python](https://python.org/) to use the Printbooklet script.
-
 ```bash
 sudo apt-get install python3
 ```
-
+Your system needs to be already installed version 3 and above  [python](https://python.org/) to use the Printbooklet script. If you want to use it on the web, you can run it on replit by clicking the run on replit icon see below.\
+[![Run on Repl.it](https://repl.it/badge/github/myooaung/print-booklet)](https://repl.it/github/myooaung/print-booklet)
 ## Usage
 
 ```bash
